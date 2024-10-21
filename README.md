@@ -322,7 +322,7 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-7731.49
 Tab:AddButton({
 	Name = "Label",
 	Callback = function()
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-6487.28076171875, 54.124717712402344, -8610.1318359375)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-6342.83935546875, 54.124717712402344, -8244.345703125)
       		print("button pressed")
   	end    
 })
